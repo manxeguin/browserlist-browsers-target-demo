@@ -1,6 +1,6 @@
-# empty-project
+# Browserlist babel example
 
-Empty project.
+Browserlist babel example
 
 ## Building and running on localhost
 
@@ -30,4 +30,10 @@ To create a both builds:
 
 ```sh
 npm run build-all-js
+```
+
+To generate regex:
+
+```sh
+npm run build-useragent-regex-modern
 ```
