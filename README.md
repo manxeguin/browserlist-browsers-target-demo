@@ -21,3 +21,8 @@ To create a development build:
 ```sh
 npm run build-dev
 ```
+To create a both builds:
+
+```sh
+npm run build-dev
+```
